@@ -10,7 +10,7 @@ var TennisGame = function(player1Name, player2Name) {
     this.player2Name = player2Name;
 };
 
-// you should modify the internals of this function
+// you should modify but not rename this function
 TennisGame.prototype.getScore = function() {
     var score = "";
 
